@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17/"/>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.4/7638ea1709e649ad6dd6a51a4e91b9ec0bc4c100/httpclient5-5.4-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.4/8f5efeb3af5b5196925ea20d25c052ec9ac24d63/httpclient5-5.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/2.0.16/bf86c390e8134abddf7bea076990da458446bb8/slf4j-simple-2.0.16-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/2.0.16/56d3d8e59293543780ad35af4ee4a5d9c111a588/slf4j-simple-2.0.16.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.16/68223612de5e53b90b752bbbe520390ae1f104db/slf4j-api-2.0.16-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.16/172931663a09a1fa515567af5fbef00897d3c04/slf4j-api-2.0.16.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.json/json/20240303/1245e385b5212a5a1403458d23aebcf8b0a11463/json-20240303-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.json/json/20240303/ebb88e8fb5122b7506d5cf1d69f1ccdb790d22a/json-20240303.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.9.0/a1ae84a6b97263c7ea566dfa73d5ac2271743e44/json-path-2.9.0-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.9.0/37fe2217f577b0b68b18e62c4d17a8858ecf9b69/json-path-2.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.3/237431491decc308f1b42f0c07da8c8d4db02e09/httpcore5-h2-5.3-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.3/f002137ea5a76a27e0063b14e3c15c452b71bc6d/httpcore5-h2-5.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.3/4fd008978a58993f1f23fd0109ab7541a21b5fd9/httpcore5-5.3-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.3/a30e0b837732ac0e034c196dbdfcd8208d347a72/httpcore5-5.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.5.0/7f51740e5d2aa84831af62084d5ae98a51fcb61d/json-smart-2.5.0-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.5.0/57a64f421b472849c40e77d2e7cce3a141b41e99/json-smart-2.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.5.0/596cf1b2ac57a905102db8fb648c4080529f347f/accessors-smart-2.5.0-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.5.0/aca011492dfe9c26f4e0659028a4fe0970829dd8/accessors-smart-2.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/ce26e415ccafa10c6624a07bdb38d969110f568f/asm-9.3-sources.jar" kind="lib" path="C:/Users/Jonas/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
