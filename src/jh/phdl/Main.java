@@ -38,11 +38,6 @@ public class Main {
 	private final static String URL_FILES_P_FILENAME = "file_name";
 	private final static String BEARER_TOKEN_PREFIX = "Bearer ";
 
-//	private static Integer startId = 990;
-
-//	private final static Integer TIER = 3;
-//	private static String bearerToken = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjI2ODc2MTUxIiwicm9sZSI6IjMiLCJyZWZyZXNoX3Rva2VuIjoiaWJ4VUFiYVJGdS1sQThmcEVhd2pORXotVlkxcHIzMzRobGRUYllpSnJISSIsIm5iZiI6MTcyNzAwOTQxMSwiZXhwIjoxNzI5NjAxNDExLCJpYXQiOjE3MjcwMDk0MTF9._bGCS9ZciiJK1uep40npbyvHQNaCsVzupIRI5fqV3mM";
-
 	private static Path downloadPath;
 	private static Integer configStartId;
 	private static Integer configTier;
